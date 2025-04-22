@@ -5,6 +5,7 @@ Si el usuario es mayor de 18 años,
 deberá mostrar un mensaje en pantalla que diga “Es mayor de edad”. 
 
 """
+print ("Hola \"mucho\" gusto ")
 
 edad = int(input("Ingrese su edad: "))
 
